@@ -1,0 +1,10 @@
+build
+eclipse
+gradle
+gradlew
+gradlew.bat
+out
+WorldMode.iml
+WorldMode.ipr
+WorldMode.iws
+.gradle
